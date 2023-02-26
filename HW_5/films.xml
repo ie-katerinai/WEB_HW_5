@@ -1,0 +1,42 @@
+<catalogFilms>
+    <film>
+        <name>The Green Mile</name>
+        <year>1999</year>
+        <duration>189</duration>
+        <ganre>drama</ganre>
+        <director>Frank Darabont</director>
+        <actor>Tom Hanks</actor>
+    </film>
+    <film>
+        <name>Schindler's List</name>
+        <year>1993</year>
+        <duration>195</duration>
+        <ganre>drama</ganre>
+        <director>Stiven Spilberg</director>
+        <actor>Liam Nison</actor>
+    </film>
+    <film>
+        <name>The Shawshank Redemption</name>
+        <year>1994</year>
+        <duration>142</duration>
+        <ganre>drama</ganre>
+        <director>Frank Darabont</director>
+        <actor>Tim Robbins</actor>
+    </film>
+    <film>
+        <name>Forrest Gump</name>
+        <year>1994</year>
+        <duration>189</duration>
+        <ganre>drama</ganre>
+        <director>Robert Zemeckis</director>
+        <actor>Tom Hanks</actor>
+    </film>
+    <film>
+        <name>Coco</name>
+        <year>2017</year>
+        <duration>105</duration>
+        <ganre>cartoon</ganre>
+        <director>Lee Unkrich</director>
+        <actor>Anthony Gonzalez</actor>
+    </film>
+</catalogFilms>

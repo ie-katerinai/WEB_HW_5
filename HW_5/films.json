@@ -1,0 +1,44 @@
+{
+    "catalogFilms":[
+        {
+            "name":"The Green Mile",
+            "year":"1999",
+            "duration":"189",
+            "ganre":"drama",
+            "director":"Frank Darabont",
+            "actor":"Tom Hanks"
+        },
+        {
+            "name":"Schindler's List",
+            "year":"1993",
+            "duration":"195",
+            "ganre":"drama",
+            "director":"Stiven Spilberg",
+            "actor":"Liam Nison"
+        },
+        {
+            "name":"The Shawshank Redemption",
+            "year":"1994",
+            "duration":"142",
+            "ganre":"drama",
+            "director":"Frank Darabont",
+            "actor":"Tim Robbins"
+        },
+        {
+            "name":"Forrest Gump",
+            "year":"1994",
+            "duration":"142",
+            "ganre":"drama",
+            "director":"Robert Zemeckis",
+            "actor":"Tom Hanks"
+        },
+        {
+            "name":"Coco",
+            "year":"2017",
+            "duration":"105",
+            "ganre":"cartoon",
+            "director":"Lee Unkrich",
+            "actor":"Anthony Gonzalez"
+        }
+    ]
+}
